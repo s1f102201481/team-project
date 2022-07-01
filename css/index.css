@@ -4,6 +4,7 @@ h1{
 
 #news{
     text-align: center;
+    border: solid thick #444444;
 }
 
 #top{
@@ -15,14 +16,4 @@ h1{
     font-size: 12px;
     background-color: #444444;
     color: #ffffff;
-}
-
-#top-menu{
-    display: inline-block;
-    text-align: center;
-    background-color: #444444;
-    color: #ffffff;
-    margin: 0px 0px 5px 0px;
-    padding: 5px 5px 5px 5px;
-    min-width: 100px;
 }
