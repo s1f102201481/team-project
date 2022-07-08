@@ -1,10 +1,9 @@
-h1{
-    text-align: center;
+#news{
+    border: solid thick #444444;
 }
 
-#news{
+#news_list{
     text-align: center;
-    border: solid thick #444444;
 }
 
 #top{
