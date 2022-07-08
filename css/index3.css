@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color:pink
+}
+h2{
+    border-bottom:solid 2px black;
+}
+.side{
+    width: 150px;
+}
+article{
+    display:flex ;
+}
