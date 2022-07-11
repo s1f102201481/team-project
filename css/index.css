@@ -16,3 +16,10 @@
     background-color: #444444;
     color: #ffffff;
 }
+
+.side{
+    width: 300px;
+}
+article{
+    display:flex ;
+}
