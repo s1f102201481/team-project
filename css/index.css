@@ -2,20 +2,22 @@
     text-align: center;
 }
 
+.content{
+    width: 65%;
+    margin: auto;
+}
+
+#news_list{
+    text-align: center;
+    margin: 0px 40px 0px 40px;
+}
+
 h2{
     border-bottom:solid 2px black;
 }
 
 #news_list img{
     border: solid thick black;
-}
-
-.side{
-    width: 300px;
-}
-
-article{
-    display:flex ;
 }
 
 #top{
