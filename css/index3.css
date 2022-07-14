@@ -30,6 +30,10 @@ h2{
     border: none;
 }
 
+#overview a{
+    color: black;
+}
+
 #top{
     position: fixed;
     left: 10px;
