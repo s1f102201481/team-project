@@ -18,6 +18,11 @@ figure {
 
 }
 
+h1{
+    font-size: 40px;
+    padding: 10px 0px 5px 10px;
+}
+
 h2 {
     border-bottom: solid 2px black;
 }
@@ -34,6 +39,14 @@ h2 {
 
 #overview a {
     color: black;
+}
+
+#id2{
+    margin-top: 20px;
+}
+
+#id3{
+    margin-top: 20px;
 }
 
 * {
