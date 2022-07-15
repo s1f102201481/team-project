@@ -67,7 +67,7 @@ label #hambargerBtn ,
 label #cancel{
     position: absolute;
     cursor: pointer;
-    background: #b66f2d;
+    background: black;
     border-radius: 3px;
 }
 
